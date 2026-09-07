@@ -1,0 +1,14 @@
+{"input": "", "expect": true, "raised": false, "task": "isogram", "lang": "rust"}
+{"input": "isogram", "expect": true, "raised": false, "task": "isogram", "lang": "rust"}
+{"input": "eleven", "expect": false, "raised": false, "task": "isogram", "lang": "rust"}
+{"input": "zzyzx", "expect": false, "raised": false, "task": "isogram", "lang": "rust"}
+{"input": "subdermatoglyphic", "expect": true, "raised": false, "task": "isogram", "lang": "rust"}
+{"input": "Alphabet", "expect": false, "raised": false, "task": "isogram", "lang": "rust"}
+{"input": "alphAbet", "expect": false, "raised": false, "task": "isogram", "lang": "rust"}
+{"input": "thumbscrew-japingly", "expect": true, "raised": false, "task": "isogram", "lang": "rust"}
+{"input": "thumbscrew-jappingly", "expect": false, "raised": false, "task": "isogram", "lang": "rust"}
+{"input": "six-year-old", "expect": true, "raised": false, "task": "isogram", "lang": "rust"}
+{"input": "Emily Jung Schwartzkopf", "expect": true, "raised": false, "task": "isogram", "lang": "rust"}
+{"input": "accentor", "expect": false, "raised": false, "task": "isogram", "lang": "rust"}
+{"input": "angola", "expect": false, "raised": false, "task": "isogram", "lang": "rust"}
+{"input": "up-to-date", "expect": false, "raised": false, "task": "isogram", "lang": "rust"}
